@@ -1,6 +1,6 @@
-# Tu-Signo
-### Java Web / Web Application
-## Proyecto SpringMVC , Muestra los Signos del Horoscopo
+## Tu-Signo
+### Proyecto Java Web Application / SpringMVC
+- #### Signos del Horoscopo
 ![Tu Signo - Internet Explorer 20_9_2021 14_58_37](https://user-images.githubusercontent.com/88462536/134052554-b1e0e26e-5ec4-42f3-ab16-ea67b0fc2571.png)
 ![Tu Signo - Internet Explorer 20_9_2021 14_59_37](https://user-images.githubusercontent.com/88462536/134052586-8adce128-78d6-49ac-bff0-6d60246b32b2.png)
 ![Tu Signo - Internet Explorer 20_9_2021 15_00_39](https://user-images.githubusercontent.com/88462536/134052679-2ebcddd4-4c6b-4443-a356-c23c399f081c.png)
